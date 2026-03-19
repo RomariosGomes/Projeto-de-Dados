@@ -16,6 +16,9 @@ Dados simulados de vendas contendo:
 ## 🛠️ Tecnologias utilizadas
 - SQL
 - Excel / Power BI
+- Grafana
+- Metabase
+- Looker Studio
 
 ## 📈 Análises realizadas
 - Total de vendas por vendedor
